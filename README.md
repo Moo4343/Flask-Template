@@ -1,2 +1,2 @@
 # Flask-Template
-This is a really simple using [Flask](https://github.com/pallets/flask)
+This is a really simple using [Flask](https://github.com/pallets/flask) in Python
